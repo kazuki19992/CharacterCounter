@@ -1,4 +1,5 @@
 # charactercounter
+[![Netlify Status](https://api.netlify.com/api/v1/badges/94914cb7-cbd5-4cbe-8d7c-c72e4e434cd1/deploy-status)](https://app.netlify.com/sites/sentence-analyser/deploys)
 
 ## Project setup
 ```
