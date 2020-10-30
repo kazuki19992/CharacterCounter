@@ -3,7 +3,7 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">
-          CharcterCounter
+          SentenceAnalyser
         </h1>
         <h2 class="subtitle">
           数字やアルファベットで書かれたテキストを分析します
